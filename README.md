@@ -1,5 +1,7 @@
 # 📱 WatchWise
 
+🎬 **Application APK File**: [Download from Google Drive](https://drive.google.com/drive/folders/1dlSG_pXcROeynIG0tAfarSpxftr0uOLb)
+
 ## 📝 Description
 Watch Wise is a movie discovery app that helps users explore films, track favorites, and get personalized recommendations based on their preferences. The app provides a seamless user experience with features like search, genre filtering, watchlists, and trending movies, making it easy to find the perfect movie for any mood. Its goal is to make movie selection smarter and more enjoyable.
 
