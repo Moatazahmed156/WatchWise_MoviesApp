@@ -31,13 +31,10 @@ git clone https://github.com/your-username/movies_app.git
 cd movies_app
 
 ###Install dependencies
-```bash
 flutter pub get
 
 ###Set up Hive for local storage
-```bash
 flutter packages pub run build_runner build
 
 ###Run the app
-```bash
 flutter run
