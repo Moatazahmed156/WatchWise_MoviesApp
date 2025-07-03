@@ -25,16 +25,17 @@ Watch Wise is a movie discovery app that helps users explore films, track favori
 
 
 ## 🛠️ Installation / Setup
-###Clone the repository
+
 ```bash
+//Clone the repository
 git clone https://github.com/your-username/movies_app.git
 cd movies_app
 
-###Install dependencies
+//Install dependencies
 flutter pub get
 
-###Set up Hive for local storage
+//Set up Hive for local storage
 flutter packages pub run build_runner build
 
-###Run the app
+//Run the app
 flutter run
